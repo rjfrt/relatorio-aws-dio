@@ -2,11 +2,11 @@
 
 **Data:** 15/10/2026
 **Empresa:** Abstergo Industries
-**Responsável:** [Rian Jr.]
+**Responsável:** Rian Jr.
 
 ## Introdução
 
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por [seu nome]. O objetivo do projeto foi elencar 3 serviços AWS com a finalidade de realizar a diminuição de custos imediatos, seguindo uma sequência lógica: primeiro enxergar o gasto, depois dimensionar corretamente a computação e, por fim, reduzir o custo de armazenamento.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Rian Jr. O objetivo do projeto foi elencar 3 serviços AWS com a finalidade de realizar a diminuição de custos imediatos, seguindo uma sequência lógica: primeiro enxergar o gasto, depois dimensionar corretamente a computação e, por fim, reduzir o custo de armazenamento.
 
 ## Descrição do Projeto
 
